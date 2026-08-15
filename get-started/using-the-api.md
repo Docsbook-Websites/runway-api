@@ -248,7 +248,7 @@ The `failureCode` inside `taskDetails` tells you whether a retry is worth attemp
 | Retrieve a task | `GET /v1/tasks/{id}` | `client.tasks.retrieve` |
 | Upload a file | `POST /v1/uploads` | `client.uploads.createEphemeral` |
 
-The full list lives in the [API reference](../api-reference.md).
+The full list lives in the [API reference](../api/README.md).
 
 ## Related
 

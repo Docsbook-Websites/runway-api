@@ -97,7 +97,7 @@ POST to `uploadUrl` as multipart form data: send every key in `fields` as a form
 
 - [Inputs](./inputs.md) — size limits, codecs and the URL/data URI comparison
 - [Outputs](./outputs.md) — result URLs expire too
-- [API reference](../api-reference.md) — full `/v1/uploads` details
+- [API reference](../api/README.md) — full `/v1/uploads` details
 
 <!-- widget:cta -->
 
