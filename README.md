@@ -35,7 +35,7 @@ Create an organization, add credits, and run the quickstart below — no sales c
 
 - [Models](./models/README.md) — 30+ video, image and audio models and what each is for {boxes}
 - [Pricing](./pricing/README.md) — Exact credit cost of every model, per second and per image {credit-card}
-- [API reference](./api/README.md) — Endpoints, parameters and a live playground {code}
+- [API reference](./api-reference.md) — Endpoints, parameters and example requests {code}
 
 ### Building for production
 
