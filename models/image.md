@@ -75,7 +75,7 @@ If cost matters, set both `quality` and resolution explicitly.
 
 `gemini_2.5_flash` is a flat 5 credits at any resolution, and accepts reference images with aspect ratios between 0.25 and 4 — the widest tolerance of any model.
 
-`gemini_image3.1_flash` is also available; see the [API reference](../api/README.md) for its parameters.
+`gemini_image3.1_flash` is also available; see the [API reference](../api-reference.md) for its parameters.
 
 <!-- /widget -->
 
