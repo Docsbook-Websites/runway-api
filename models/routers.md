@@ -35,7 +35,7 @@ In those cases, name the model explicitly.
 
 - [Models](./README.md) — the full catalogue a router picks from
 - [Pricing](../pricing/README.md) — the standard rates routed requests are billed at
-- [Making API calls](../get-started/using-the-api.md) — how to invoke a generation
+- [API reference](../endpoints/README.md) — router configuration parameters
 
 <!-- widget:cta -->
 

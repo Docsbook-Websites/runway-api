@@ -248,10 +248,11 @@ The `failureCode` inside `taskDetails` tells you whether a retry is worth attemp
 | Retrieve a task | `GET /v1/tasks/{id}` | `client.tasks.retrieve` |
 | Upload a file | `POST /v1/uploads` | `client.uploads.createEphemeral` |
 
-The full list lives in the [API reference](../api-reference.md).
+The full list lives in the [API reference](../endpoints/README.md).
 
 ## Related
 
+- [API reference](../endpoints/README.md) — every endpoint, with a live playground
 - [Models](../models/README.md) — every model ID and what it accepts
 - [Inputs](../assets/inputs.md) — codecs, size limits and aspect ratio rules
 - [Outputs](../assets/outputs.md) — why you must re-host result URLs

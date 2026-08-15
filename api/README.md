@@ -1,17 +1,17 @@
 ---
-title: API Reference — Moved to Endpoints
-description: The Runway API endpoint reference now lives under Endpoints, with every parameter, example request and response documented.
+title: API Reference — See Endpoints
+description: The Runway API endpoint reference lives under Endpoints, with every parameter, example request and response.
 ---
 
-# API reference has moved
+# API reference
 
-The endpoint reference now lives at **[Endpoints](../endpoints/README.md)**.
+The endpoint reference lives under **[Endpoints](../endpoints/README.md)**.
 
 <!-- widget:cta -->
 
 ## Go to the API reference
 
-Every endpoint, parameter and example request, plus the SDK method map.
+Every endpoint, parameter and example request, with an interactive playground.
 
 [Open the API reference](../endpoints/README.md) · [Read the quickstart](../get-started/using-the-api.md)
 
